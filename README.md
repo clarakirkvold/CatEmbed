@@ -6,7 +6,7 @@ The `categorical_entity_embedder.py` is a modified version of the script availab
 
 The datasets used in this work were obtained from [Mamun *et al.*](https://doi.org/10.1038/s41597-019-0080-z). In the `data` folder, we included the precise datasets used to obtain the results in our manuscript. The GP-CAF features in the adsorption datasets were generated using the [GP-representations](https://github.com/UON-comp-chem/GP-representations.git) package developed by [Li *et al.*](https://doi.org/10.1021/acs.jpclett.1c01319). Additionally, this folder contains the script used to create the train/validation split where subsets of bimetallic surfaces not included in the training set.
 
-The `Models` folder contains example training scripts, train/validation datasets, and models for each of the representations presented in our manuscript.
+The `models` folder contains example training scripts, train/validation datasets, and models for each of the representations presented in our manuscript.
 
 ## Dependencies
 
