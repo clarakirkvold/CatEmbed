@@ -11,7 +11,7 @@ The `Models` folder contains example training scripts, train/validation datasets
 ## Dependencies
 
 - **tensorflow** (v2.13.1)
-- **tqdm** (4.58.0)
+- **tqdm** (v4.58.0)
 - **scikit-learn** (v1.4.2)
 - **pandas** (v2.2.2 )
 - **catboost** (v1.2.5)
